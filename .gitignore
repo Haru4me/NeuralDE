@@ -93,6 +93,7 @@ assets/demo_imgs/*
 *.yaml
 *.ckpt
 events.*
+*.lock
 
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
